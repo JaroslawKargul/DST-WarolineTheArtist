@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="preview">
+        <file id="0" name="preview/preview-0.png" width="266" height="416" pivot_x="0.499906" pivot_y="0.49982"/>
+    </folder>
+    <folder id="1" name="campfire_shadow">
+        <file id="0" name="campfire_shadow/campfire_shadow-0.png" width="311" height="111" pivot_x="0.454968" pivot_y="0.707433"/>
+    </folder>
+    <folder id="2" name="fire_dead">
+        <file id="0" name="fire_dead/fire_dead-0.png" width="331" height="123" pivot_x="0.486858" pivot_y="0.188155"/>
+    </folder>
+    <folder id="3" name="campfire_log">
+        <file id="0" name="campfire_log/campfire_log-0.png" width="125" height="80" pivot_x="0.4846" pivot_y="0.485859"/>
+        <file id="1" name="campfire_log/campfire_log-1.png" width="92" height="137" pivot_x="0.552174" pivot_y="0.468932"/>
+        <file id="2" name="campfire_log/campfire_log-2.png" width="132" height="82" pivot_x="0.431155" pivot_y="0.518598"/>
+    </folder>
+    <folder id="4" name="Logs">
+        <file id="0" name="Logs/Logs-0.png" width="311" height="147" pivot_x="-0.330562" pivot_y="0.903432"/>
+    </folder>
+    <entity id="0" name="campfire_drawing">
+        <animation id="0" name="campfire" length="34">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="logs" folder="4" file="0" abs_x="-249.6" abs_y="-5.75" abs_pivot_x="-0.330562" abs_pivot_y="0.903432" abs_angle="0" abs_scale_x="0.999985" abs_scale_y="0.999969" abs_a="1" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" name="preview-0" folder="0" file="0" abs_x="-307" abs_y="77" abs_pivot_x="0.499906" abs_pivot_y="0.49982" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" name="fire_dead-0" folder="2" file="0" abs_x="306" abs_y="-83" abs_pivot_x="0.486858" abs_pivot_y="0.188155" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" name="campfire_log-2" folder="3" file="2" abs_x="268" abs_y="126" abs_pivot_x="0.431155" abs_pivot_y="0.518598" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="3"/>
+                    <object_ref id="4" name="campfire_log-1" folder="3" file="1" abs_x="133" abs_y="106" abs_pivot_x="0.552174" abs_pivot_y="0.468932" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" name="campfire_log-0" folder="3" file="0" abs_x="-18" abs_y="121" abs_pivot_x="0.4846" abs_pivot_y="0.485859" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="5"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="logs">
+                <key id="0" spin="0">
+                    <object folder="4" file="0" x="-249.6" y="-5.75" angle="0" scale_x="0.999985" scale_y="0.999969"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="preview-0">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-307" y="77"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="fire_dead-0">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="306" y="-83"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="campfire_log-2">
+                <key id="0" spin="0">
+                    <object folder="3" file="2" x="268" y="126"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="campfire_log-1">
+                <key id="0" spin="0">
+                    <object folder="3" file="1" x="133" y="106"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="campfire_log-0">
+                <key id="0" spin="0">
+                    <object folder="3" file="0" x="-18" y="121"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

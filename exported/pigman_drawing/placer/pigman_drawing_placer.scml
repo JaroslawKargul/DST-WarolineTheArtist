@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="pigman_drawing_placer">
+        <file id="0" name="pigman_drawing_placer/pigman_drawing_placer-0.png" width="277" height="347" pivot_x="0.471151" pivot_y="0.0754719"/>
+        <file id="1" name="pigman_drawing_placer/pigman_drawing_placer-1.png" width="277" height="347" pivot_x="0.471151" pivot_y="0.0754719"/>
+    </folder>
+    <entity id="0" name="pigman_drawing_placer">
+        <animation id="0" name="pigman_drawing_placer_90s" length="500">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="pigman_drawing_placer" folder="0" file="1" abs_x="0.35" abs_y="0.349" abs_pivot_x="0.471151" abs_pivot_y="0.075472" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="250">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="500">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="pigman_drawing_placer">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="0.35" y="0.349" angle="0"/>
+                </key>
+                <key id="1" time="250" spin="0">
+                    <object folder="0" file="0" x="0.35" y="0.349" angle="0"/>
+                </key>
+                <key id="2" time="500" spin="0">
+                    <object folder="0" file="0" x="0.35" y="0.349" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="beefalo_mouthmouth_riding">
+        <file id="0" name="beefalo_mouthmouth_riding/beefalo_mouthmouth_riding-0.png" width="192" height="268" pivot_x="0.49987" pivot_y="0.776026"/>
+        <file id="8" name="beefalo_mouthmouth_riding/beefalo_mouthmouth_riding-8.png" width="224" height="244" pivot_x="0.638393" pivot_y="0.641906"/>
+        <file id="9" name="beefalo_mouthmouth_riding/beefalo_mouthmouth_riding-9.png" width="228" height="236" pivot_x="0.622807" pivot_y="0.733263"/>
+        <file id="10" name="beefalo_mouthmouth_riding/beefalo_mouthmouth_riding-10.png" width="188" height="352" pivot_x="0.563165" pivot_y="0.822869"/>
+        <file id="11" name="beefalo_mouthmouth_riding/beefalo_mouthmouth_riding-11.png" width="144" height="260" pivot_x="-0.163542" pivot_y="0.730673"/>
+        <file id="12" name="beefalo_mouthmouth_riding/beefalo_mouthmouth_riding-12.png" width="324" height="200" pivot_x="0.521605" pivot_y="0.80525"/>
+    </folder>
+    <entity id="0" name="beefalo_drawing">
+        <animation id="0" name="beefalo" length="67">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="beefalo_mouthmouth_riding-0" folder="0" file="0" abs_x="-210" abs_y="99" abs_pivot_x="-0.163542" abs_pivot_y="0.730673" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="beefalo_mouthmouth_riding-0">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="-210" y="99"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

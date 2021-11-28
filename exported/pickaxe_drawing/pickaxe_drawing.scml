@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="pickaxe01">
+        <file id="0" name="pickaxe01/pickaxe01-5.png" width="210" height="196" pivot_x="0.458498" pivot_y="0.196686"/>
+        <file id="1" name="pickaxe01/pickaxe01-6.png" width="210" height="196" pivot_x="0.458498" pivot_y="0.196686"/>
+        <file id="2" name="pickaxe01/pickaxe01-19.png" width="0" height="0" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="1" name="placer01">
+        <file id="0" name="placer01/placer01-5.png" width="200" height="196" pivot_x="0.458498" pivot_y="0.196686"/>
+        <file id="1" name="placer01/placer01-6.png" width="200" height="196" pivot_x="0.458498" pivot_y="0.196686"/>
+    </folder>
+    <entity id="0" name="pickaxe_drawing">
+        <animation id="0" name="idle_90s" length="500">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="pickaxe01" folder="0" file="0" abs_x="5.301" abs_y="21.799" abs_pivot_x="0.458498" abs_pivot_y="0.196686" abs_angle="0" abs_scale_x="0.99827" abs_scale_y="0.99827" abs_a="1" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" name="pickaxe01-19" folder="0" file="2" abs_x="-89" abs_y="180" abs_pivot_x="0" abs_pivot_y="1" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="1"/>
+                </key>
+                <key id="1" time="250">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                    <object_ref id="1" timeline="1" key="1" z_index="1"/>
+                </key>
+                <key id="2" time="500">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                    <object_ref id="1" timeline="1" key="2" z_index="1"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="pickaxe01">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="5.301" y="21.799" angle="0" scale_x="0.99827" scale_y="0.99827"/>
+                </key>
+                <key id="1" time="250" spin="0">
+                    <object folder="0" file="1" x="5.301" y="21.799" angle="0" scale_x="0.998267" scale_y="0.998267"/>
+                </key>
+                <key id="2" time="500" spin="0">
+                    <object folder="0" file="0" x="5.301" y="21.799" angle="0" scale_x="0.998267" scale_y="0.998267"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="pickaxe01-19">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-89" y="180"/>
+                </key>
+                <key id="1" time="250" spin="0">
+                    <object folder="0" file="2" x="-89" y="180"/>
+                </key>
+                <key id="2" time="500" spin="0">
+                    <object folder="0" file="2" x="-89" y="180"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="placer_90s" length="500">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="placer01" folder="1" file="0" abs_x="-38.699" abs_y="127.799" abs_pivot_x="0.458498" abs_pivot_y="0.196686" abs_angle="231.12" abs_scale_x="0.998267" abs_scale_y="0.998267" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="250">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="500">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="placer01">
+                <key id="0" spin="0">
+                    <object folder="1" file="0" x="-38.699" y="127.799" angle="231.12" scale_x="0.998267" scale_y="0.998267"/>
+                </key>
+                <key id="1" time="250" spin="0">
+                    <object folder="1" file="1" x="-38.699" y="127.799" angle="231.12" scale_x="0.998267" scale_y="0.998267"/>
+                </key>
+                <key id="2" time="500" spin="0">
+                    <object folder="1" file="0" x="-38.699" y="127.799" angle="231.12" scale_x="0.998267" scale_y="0.998267"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

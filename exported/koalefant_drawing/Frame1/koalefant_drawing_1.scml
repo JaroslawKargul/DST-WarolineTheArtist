@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="thunk_1">
+        <file id="0" name="thunk_1/thunk_1-0.png" width="168" height="112" pivot_x="0.519789" pivot_y="0.514067"/>
+        <file id="1" name="thunk_1/thunk_1-1.png" width="124" height="100" pivot_x="0.533464" pivot_y="0.501505"/>
+        <file id="2" name="thunk_1/thunk_1-2.png" width="108" height="64" pivot_x="0.547681" pivot_y="0.527352"/>
+        <file id="3" name="thunk_1/thunk_1-3.png" width="108" height="88" pivot_x="0.520134" pivot_y="0.518187"/>
+        <file id="4" name="thunk_1/thunk_1-4.png" width="108" height="84" pivot_x="0.498144" pivot_y="0.526494"/>
+        <file id="5" name="thunk_1/thunk_1-5.png" width="132" height="92" pivot_x="0.504163" pivot_y="0.447288"/>
+    </folder>
+    <folder id="1" name="beefalo_body">
+        <file id="0" name="beefalo_body/beefalo_body-0.png" width="400" height="540" pivot_x="0.470374" pivot_y="0.478519"/>
+        <file id="1" name="beefalo_body/beefalo_body-1.png" width="296" height="484" pivot_x="0.585725" pivot_y="0.511881"/>
+        <file id="2" name="beefalo_body/beefalo_body-2.png" width="332" height="548" pivot_x="0.606474" pivot_y="0.5047"/>
+        <file id="3" name="beefalo_body/beefalo_body-3.png" width="420" height="512" pivot_x="0.527677" pivot_y="0.458009"/>
+        <file id="4" name="beefalo_body/beefalo_body-4.png" width="472" height="528" pivot_x="0.552965" pivot_y="0.44342"/>
+        <file id="5" name="beefalo_body/beefalo_body-5.png" width="580" height="656" pivot_x="0.407973" pivot_y="0.419665"/>
+        <file id="6" name="beefalo_body/beefalo_body-6.png" width="436" height="592" pivot_x="0.618118" pivot_y="0.390415"/>
+    </folder>
+    <folder id="2" name="beefalo_hoof">
+        <file id="0" name="beefalo_hoof/beefalo_hoof-0.png" width="128" height="164" pivot_x="0.280855" pivot_y="0.605643"/>
+        <file id="1" name="beefalo_hoof/beefalo_hoof-1.png" width="132" height="164" pivot_x="0.274807" pivot_y="0.605643"/>
+    </folder>
+    <folder id="3" name="beefalo_facebase">
+        <file id="0" name="beefalo_facebase/beefalo_facebase-0.png" width="360" height="508" pivot_x="0.46979" pivot_y="0.229824"/>
+        <file id="1" name="beefalo_facebase/beefalo_facebase-1.png" width="196" height="496" pivot_x="0.287625" pivot_y="0.221674"/>
+        <file id="2" name="beefalo_facebase/beefalo_facebase-2.png" width="356" height="512" pivot_x="0.465237" pivot_y="0.234962"/>
+    </folder>
+    <folder id="4" name="beefalo_tail">
+        <file id="0" name="beefalo_tail/beefalo_tail-0.png" width="196" height="232" pivot_x="0.821043" pivot_y="0.896231"/>
+    </folder>
+    <folder id="5" name="beefalo_antler">
+        <file id="0" name="beefalo_antler/beefalo_antler-0.png" width="284" height="408" pivot_x="0.837146" pivot_y="0.371999"/>
+        <file id="1" name="beefalo_antler/beefalo_antler-1.png" width="284" height="376" pivot_x="0.253871" pivot_y="0.339895"/>
+        <file id="2" name="beefalo_antler/beefalo_antler-2.png" width="244" height="416" pivot_x="0.811473" pivot_y="0.369653"/>
+        <file id="3" name="beefalo_antler/beefalo_antler-3.png" width="184" height="408" pivot_x="0.896736" pivot_y="0.357599"/>
+    </folder>
+    <folder id="6" name="beefalo_eye">
+        <file id="0" name="beefalo_eye/beefalo_eye-0.png" width="100" height="100" pivot_x="0.652995" pivot_y="0.610005"/>
+        <file id="1" name="beefalo_eye/beefalo_eye-1.png" width="104" height="100" pivot_x="0.311053" pivot_y="0.598255"/>
+        <file id="2" name="beefalo_eye/beefalo_eye-2.png" width="96" height="68" pivot_x="0.629161" pivot_y="0.748169"/>
+        <file id="3" name="beefalo_eye/beefalo_eye-3.png" width="100" height="108" pivot_x="0.636495" pivot_y="0.58519"/>
+    </folder>
+    <folder id="7" name="beefalo_headbase">
+        <file id="0" name="beefalo_headbase/beefalo_headbase-0.png" width="516" height="440" pivot_x="0.502809" pivot_y="0.405683"/>
+        <file id="1" name="beefalo_headbase/beefalo_headbase-1.png" width="320" height="392" pivot_x="0.559686" pivot_y="0.431825"/>
+        <file id="2" name="beefalo_headbase/beefalo_headbase-2.png" width="408" height="412" pivot_x="0.492768" pivot_y="0.364079"/>
+        <file id="3" name="beefalo_headbase/beefalo_headbase-3.png" width="484" height="444" pivot_x="0.51503" pivot_y="0.406814"/>
+        <file id="4" name="beefalo_headbase/beefalo_headbase-4.png" width="508" height="336" pivot_x="0.496013" pivot_y="0.460493"/>
+        <file id="5" name="beefalo_headbase/beefalo_headbase-5.png" width="508" height="336" pivot_x="0.496013" pivot_y="0.459674"/>
+        <file id="6" name="beefalo_headbase/beefalo_headbase-6.png" width="604" height="476" pivot_x="0.514072" pivot_y="0.506251"/>
+    </folder>
+    <entity id="0" name="koalefant">
+        <animation id="0" name="drawing1" length="500">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="beefalo_hoof_3" folder="2" file="0" abs_x="-26.099" abs_y="61.799" abs_pivot_x="0.280855" abs_pivot_y="0.605643" abs_angle="5.51489" abs_scale_x="0.794357" abs_scale_y="0.794326" abs_a="1" timeline="18" key="0" z_index="0"/>
+                    <object_ref id="1" name="beefalo_hoof_2" folder="2" file="0" abs_x="-80.599" abs_y="56.649" abs_pivot_x="0.280855" abs_pivot_y="0.605643" abs_angle="8.05739" abs_scale_x="0.759279" abs_scale_y="0.759251" abs_a="1" timeline="17" key="0" z_index="1"/>
+                    <object_ref id="2" name="beefalo_hoof_1" folder="2" file="0" abs_x="73.55" abs_y="59.949" abs_pivot_x="0.280855" abs_pivot_y="0.605643" abs_angle="354.957" abs_scale_x="0.802469" abs_scale_y="0.802423" abs_a="1" timeline="16" key="0" z_index="2"/>
+                    <object_ref id="3" name="beefalo_hoof_0" folder="2" file="0" abs_x="8.65" abs_y="77.149" abs_pivot_x="0.280855" abs_pivot_y="0.605643" abs_angle="344.709" abs_scale_x="0.878144" abs_scale_y="0.878103" abs_a="1" timeline="15" key="0" z_index="3"/>
+                    <object_ref id="4" name="beefalo_tail" folder="4" file="0" abs_x="-150.199" abs_y="246.949" abs_pivot_x="0.821043" abs_pivot_y="0.896231" abs_angle="350.662" abs_scale_x="0.999466" abs_scale_y="0.999466" abs_a="1" timeline="14" key="0" z_index="4"/>
+                    <object_ref id="5" name="beefalo_body_1" folder="1" file="1" abs_x="-26.249" abs_y="204.299" abs_pivot_x="0.585725" abs_pivot_y="0.511881" abs_angle="6.29224" abs_scale_x="1.12346" abs_scale_y="0.842259" abs_a="1" timeline="13" key="0" z_index="5"/>
+                    <object_ref id="6" name="beefalo_body_0" folder="1" file="0" abs_x="35.3" abs_y="208.549" abs_pivot_x="0.470374" abs_pivot_y="0.478519" abs_angle="357.086" abs_scale_x="1.13062" abs_scale_y="0.788225" abs_a="1" timeline="12" key="0" z_index="6"/>
+                    <object_ref id="7" name="beefalo_antler_1" folder="5" file="1" abs_x="258" abs_y="245.949" abs_pivot_x="0.253871" abs_pivot_y="0.339895" abs_angle="225.174" abs_scale_x="0.99118" abs_scale_y="1.06038" abs_a="1" timeline="11" key="0" z_index="7"/>
+                    <object_ref id="8" name="beefalo_antler_0" folder="5" file="0" abs_x="-94.699" abs_y="159.899" abs_pivot_x="0.837146" abs_pivot_y="0.371999" abs_angle="160.392" abs_scale_x="0.988526" abs_scale_y="1.16529" abs_a="1" timeline="10" key="0" z_index="8"/>
+                    <object_ref id="9" name="beefalo_headbase" folder="7" file="0" abs_x="101.5" abs_y="134.349" abs_pivot_x="0.502809" abs_pivot_y="0.405683" abs_angle="14.7965" abs_scale_x="0.995092" abs_scale_y="0.995052" abs_a="1" timeline="9" key="0" z_index="9"/>
+                    <object_ref id="10" name="beefalo_facebase" folder="3" file="0" abs_x="106.6" abs_y="119.599" abs_pivot_x="0.46979" abs_pivot_y="0.229824" abs_angle="18.3429" abs_scale_x="0.989862" abs_scale_y="0.920348" abs_a="1" timeline="8" key="0" z_index="10"/>
+                    <object_ref id="11" name="beefalo_eye_1" folder="6" file="0" abs_x="32.9" abs_y="117.349" abs_pivot_x="0.652995" abs_pivot_y="0.610005" abs_angle="18.3429" abs_scale_x="0.989862" abs_scale_y="0.920348" abs_a="1" timeline="7" key="0" z_index="11"/>
+                    <object_ref id="12" name="beefalo_eye_0" folder="6" file="1" abs_x="193.55" abs_y="170.899" abs_pivot_x="0.311053" abs_pivot_y="0.598255" abs_angle="18.3429" abs_scale_x="0.989862" abs_scale_y="0.920348" abs_a="1" timeline="6" key="0" z_index="12"/>
+                    <object_ref id="13" name="thunk_1_5" folder="0" file="5" abs_x="168.95" abs_y="-57.7" abs_pivot_x="0.504163" abs_pivot_y="0.447288" abs_angle="13.301" abs_scale_x="0.758759" abs_scale_y="0.811093" abs_a="1" timeline="5" key="0" z_index="13"/>
+                    <object_ref id="14" name="thunk_1_4" folder="0" file="4" abs_x="173.95" abs_y="-29.8" abs_pivot_x="0.498144" abs_pivot_y="0.526494" abs_angle="17.7413" abs_scale_x="0.87726" abs_scale_y="0.991995" abs_a="1" timeline="4" key="0" z_index="14"/>
+                    <object_ref id="15" name="thunk_1_3" folder="0" file="0" abs_x="153.05" abs_y="75.999" abs_pivot_x="0.519789" abs_pivot_y="0.514067" abs_angle="11.5371" abs_scale_x="0.990874" abs_scale_y="0.990528" abs_a="1" timeline="3" key="0" z_index="15"/>
+                    <object_ref id="16" name="thunk_1_2" folder="0" file="1" abs_x="169.85" abs_y="42.799" abs_pivot_x="0.533464" abs_pivot_y="0.501505" abs_angle="11.5371" abs_scale_x="0.990874" abs_scale_y="0.990528" abs_a="1" timeline="2" key="0" z_index="16"/>
+                    <object_ref id="17" name="thunk_1_1" folder="0" file="3" abs_x="176.1" abs_y="-1.2" abs_pivot_x="0.520134" abs_pivot_y="0.518187" abs_angle="17.741" abs_scale_x="0.987407" abs_scale_y="0.991995" abs_a="1" timeline="1" key="0" z_index="17"/>
+                    <object_ref id="18" name="thunk_1_0" folder="0" file="2" abs_x="175.85" abs_y="23.999" abs_pivot_x="0.547681" abs_pivot_y="0.527352" abs_angle="11.5371" abs_scale_x="0.990874" abs_scale_y="0.990528" abs_a="1" timeline="0" key="0" z_index="18"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="thunk_1_0">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="175.85" y="23.999" angle="11.5371" scale_x="0.990874" scale_y="0.990528"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="thunk_1_1">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="176.1" y="-1.2" angle="17.741" scale_x="0.987407" scale_y="0.991995"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="thunk_1_2">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="169.85" y="42.799" angle="11.5371" scale_x="0.990874" scale_y="0.990528"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="thunk_1_3">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="153.05" y="75.999" angle="11.5371" scale_x="0.990874" scale_y="0.990528"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="thunk_1_4">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="173.95" y="-29.8" angle="17.7413" scale_x="0.87726" scale_y="0.991995"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="thunk_1_5">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="168.95" y="-57.7" angle="13.301" scale_x="0.758759" scale_y="0.811093"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="beefalo_eye_0">
+                <key id="0" spin="0">
+                    <object folder="6" file="1" x="193.55" y="170.899" angle="18.3429" scale_x="0.989862" scale_y="0.920348"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="beefalo_eye_1">
+                <key id="0" spin="0">
+                    <object folder="6" file="0" x="32.9" y="117.349" angle="18.3429" scale_x="0.989862" scale_y="0.920348"/>
+                </key>
+            </timeline>
+            <timeline id="8" name="beefalo_facebase">
+                <key id="0" spin="0">
+                    <object folder="3" file="0" x="106.6" y="119.599" angle="18.3429" scale_x="0.989862" scale_y="0.920348"/>
+                </key>
+            </timeline>
+            <timeline id="9" name="beefalo_headbase">
+                <key id="0" spin="0">
+                    <object folder="7" file="0" x="101.5" y="134.349" angle="14.7965" scale_x="0.995092" scale_y="0.995052"/>
+                </key>
+            </timeline>
+            <timeline id="10" name="beefalo_antler_0">
+                <key id="0" spin="0">
+                    <object folder="5" file="0" x="-94.699" y="159.899" angle="160.392" scale_x="0.988526" scale_y="1.16529"/>
+                </key>
+            </timeline>
+            <timeline id="11" name="beefalo_antler_1">
+                <key id="0" spin="0">
+                    <object folder="5" file="1" x="258" y="245.949" angle="225.174" scale_x="0.99118" scale_y="1.06038"/>
+                </key>
+            </timeline>
+            <timeline id="12" name="beefalo_body_0">
+                <key id="0" spin="0">
+                    <object folder="1" file="0" x="35.3" y="208.549" angle="357.086" scale_x="1.13062" scale_y="0.788225"/>
+                </key>
+            </timeline>
+            <timeline id="13" name="beefalo_body_1">
+                <key id="0" spin="0">
+                    <object folder="1" file="1" x="-26.249" y="204.299" angle="6.29224" scale_x="1.12346" scale_y="0.842259"/>
+                </key>
+            </timeline>
+            <timeline id="14" name="beefalo_tail">
+                <key id="0" spin="0">
+                    <object folder="4" file="0" x="-150.199" y="246.949" angle="350.662" scale_x="0.999466" scale_y="0.999466"/>
+                </key>
+            </timeline>
+            <timeline id="15" name="beefalo_hoof_0">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="8.65" y="77.149" angle="344.709" scale_x="0.878144" scale_y="0.878103"/>
+                </key>
+            </timeline>
+            <timeline id="16" name="beefalo_hoof_1">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="73.55" y="59.949" angle="354.957" scale_x="0.802469" scale_y="0.802423"/>
+                </key>
+            </timeline>
+            <timeline id="17" name="beefalo_hoof_2">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="-80.599" y="56.649" angle="8.05739" scale_x="0.759279" scale_y="0.759251"/>
+                </key>
+            </timeline>
+            <timeline id="18" name="beefalo_hoof_3">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="-26.099" y="61.799" angle="5.51489" scale_x="0.794357" scale_y="0.794326"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

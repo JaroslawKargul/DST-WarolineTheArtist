@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="flames_wide">
+        <file id="0" name="flames_wide/flames_wide-0.png" width="190" height="337" pivot_x="0.413915" pivot_y="0.0606825"/>
+		<file id="1" name="flames_wide/flames_wide-0.png" width="190" height="337" pivot_x="0.413915" pivot_y="0.0606825"/>
+        <file id="2" name="flames_wide/flames_wide-2.png" width="190" height="337" pivot_x="0.413915" pivot_y="0.0606825"/>
+		<file id="3" name="flames_wide/flames_wide-2.png" width="190" height="337" pivot_x="0.413915" pivot_y="0.0606825"/>
+        <file id="4" name="flames_wide/flames_wide-4.png" width="175" height="325" pivot_x="0.435964" pivot_y="0.0611538"/>
+		<file id="5" name="flames_wide/flames_wide-4.png" width="175" height="325" pivot_x="0.435964" pivot_y="0.0611538"/>
+        <file id="6" name="flames_wide/flames_wide-6.png" width="175" height="325" pivot_x="0.435964" pivot_y="0.0611538"/>
+		<file id="7" name="flames_wide/flames_wide-6.png" width="175" height="325" pivot_x="0.435964" pivot_y="0.0611538"/>
+        <file id="8" name="flames_wide/flames_wide-8.png" width="169" height="331" pivot_x="0.392881" pivot_y="0.0592523"/>
+		<file id="9" name="flames_wide/flames_wide-8.png" width="169" height="331" pivot_x="0.392881" pivot_y="0.0592523"/>
+        <file id="10" name="flames_wide/flames_wide-10.png" width="169" height="331" pivot_x="0.392881" pivot_y="0.0592523"/>
+		<file id="11" name="flames_wide/flames_wide-10.png" width="169" height="331" pivot_x="0.392881" pivot_y="0.0592523"/>
+        <file id="12" name="flames_wide/flames_wide-12.png" width="156" height="307" pivot_x="0.383253" pivot_y="0.0627749"/>
+		<file id="13" name="flames_wide/flames_wide-12.png" width="156" height="307" pivot_x="0.383253" pivot_y="0.0627749"/>
+        <file id="14" name="flames_wide/flames_wide-14.png" width="156" height="307" pivot_x="0.383253" pivot_y="0.0627749"/>
+		<file id="15" name="flames_wide/flames_wide-14.png" width="156" height="307" pivot_x="0.383253" pivot_y="0.0627749"/>
+    </folder>
+    <entity id="0" name="campfire_fire_drawing">
+        <animation id="0" name="campfire_fire" length="534">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="flames_wide" folder="0" file="0" abs_x="-8.2" abs_y="-14.95" abs_pivot_x="0.413915" abs_pivot_y="0.060682" abs_angle="0" abs_scale_x="0.405151" abs_scale_y="0.599991" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="flames_wide">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-8.2" y="-14.95" angle="0" scale_x="0.405151" scale_y="0.599991"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

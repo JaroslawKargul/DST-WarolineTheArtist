@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="kiki_hair">
+        <file id="0" name="kiki_hair/kiki_hair-0.png" width="112" height="112" pivot_x="0.424549" pivot_y="0.0810313"/>
+		<file id="1" name="kiki_hair/kiki_hair-0.png" width="112" height="112" pivot_x="0.424549" pivot_y="0.0810313"/>
+    </folder>
+    <folder id="1" name="kiki_hand">
+        <file id="0" name="kiki_hand/kiki_hand-0.png" width="80" height="64" pivot_x="0.256869" pivot_y="0.601961"/>
+        <file id="1" name="kiki_hand/kiki_hand-1.png" width="72" height="60" pivot_x="0.298257" pivot_y="0.742508"/>
+        <file id="2" name="kiki_hand/kiki_hand-2.png" width="100" height="80" pivot_x="0.191495" pivot_y="0.694381"/>
+        <file id="3" name="kiki_hand/kiki_hand-3.png" width="108" height="128" pivot_x="0.253931" pivot_y="0.791215"/>
+        <file id="4" name="kiki_hand/kiki_hand-4.png" width="108" height="120" pivot_x="0.156477" pivot_y="0.817087"/>
+        <file id="5" name="kiki_hand/kiki_hand-5.png" width="92" height="88" pivot_x="0.238582" pivot_y="0.770744"/>
+        <file id="6" name="kiki_hand/kiki_hand-6.png" width="148" height="124" pivot_x="0.55101" pivot_y="0.843552"/>
+        <file id="7" name="kiki_hand/kiki_hand-7.png" width="104" height="116" pivot_x="0.145909" pivot_y="0.681685"/>
+        <file id="8" name="kiki_hand/kiki_hand-8.png" width="92" height="124" pivot_x="0.260321" pivot_y="0.795165"/>
+        <file id="9" name="kiki_hand/kiki_hand-9.png" width="108" height="80" pivot_x="0.153005" pivot_y="0.654381"/>
+        <file id="10" name="kiki_hand/kiki_hand-10.png" width="96" height="160" pivot_x="0.249214" pivot_y="0.0882844"/>
+        <file id="11" name="kiki_hand/kiki_hand-11.png" width="112" height="84" pivot_x="0.487049" pivot_y="0.602089"/>
+        <file id="12" name="kiki_hand/kiki_hand-12.png" width="92" height="92" pivot_x="0.536408" pivot_y="0.742397"/>
+        <file id="13" name="kiki_hand/kiki_hand-13.png" width="96" height="100" pivot_x="0.306766" pivot_y="0.834005"/>
+    </folder>
+    <folder id="2" name="kiki_head">
+        <file id="0" name="kiki_head/kiki_head-0.png" width="184" height="208" pivot_x="0.505432" pivot_y="0.572118"/>
+        <file id="1" name="kiki_head/kiki_head-1.png" width="204" height="216" pivot_x="0.537743" pivot_y="0.59491"/>
+        <file id="2" name="kiki_head/kiki_head-2.png" width="204" height="216" pivot_x="0.537743" pivot_y="0.59491"/>
+        <file id="3" name="kiki_head/kiki_head-3.png" width="196" height="236" pivot_x="0.523467" pivot_y="0.57246"/>
+        <file id="4" name="kiki_head/kiki_head-4.png" width="196" height="200" pivot_x="0.505099" pivot_y="0.573253"/>
+        <file id="5" name="kiki_head/kiki_head-5.png" width="176" height="228" pivot_x="0.505679" pivot_y="0.568862"/>
+        <file id="6" name="kiki_head/kiki_head-6.png" width="196" height="236" pivot_x="0.523467" pivot_y="0.57246"/>
+        <file id="7" name="kiki_head/kiki_head-7.png" width="184" height="208" pivot_x="0.505432" pivot_y="0.572118"/>
+        <file id="8" name="kiki_head/kiki_head-8.png" width="196" height="252" pivot_x="0.421426" pivot_y="0.593355"/>
+        <file id="9" name="kiki_head/kiki_head-9.png" width="240" height="168" pivot_x="0.482706" pivot_y="0.569795"/>
+        <file id="10" name="kiki_head/kiki_head-10.png" width="240" height="180" pivot_x="0.530935" pivot_y="0.601114"/>
+        <file id="11" name="kiki_head/kiki_head-11.png" width="224" height="244" pivot_x="0.517855" pivot_y="0.588117"/>
+        <file id="12" name="kiki_head/kiki_head-12.png" width="176" height="220" pivot_x="0.505679" pivot_y="0.546707"/>
+        <file id="13" name="kiki_head/kiki_head-13.png" width="200" height="224" pivot_x="0.538872" pivot_y="0.593194"/>
+        <file id="14" name="kiki_head/kiki_head-14.png" width="176" height="228" pivot_x="0.505679" pivot_y="0.568862"/>
+        <file id="15" name="kiki_head/kiki_head-15.png" width="176" height="244" pivot_x="0.505679" pivot_y="0.526129"/>
+        <file id="16" name="kiki_head/kiki_head-16.png" width="208" height="208" pivot_x="0.456127" pivot_y="0.572118"/>
+    </folder>
+    <folder id="3" name="kiki_tail">
+        <file id="0" name="kiki_tail/kiki_tail-0.png" width="84" height="32" pivot_x="0.770827" pivot_y="0.528141"/>
+        <file id="1" name="kiki_tail/kiki_tail-1.png" width="104" height="44" pivot_x="0.813216" pivot_y="0.415352"/>
+        <file id="2" name="kiki_tail/kiki_tail-2.png" width="96" height="40" pivot_x="0.827859" pivot_y="0.532513"/>
+        <file id="3" name="kiki_tail/kiki_tail-3.png" width="120" height="36" pivot_x="0.912912" pivot_y="0.571542"/>
+        <file id="4" name="kiki_tail/kiki_tail-4.png" width="132" height="40" pivot_x="0.888254" pivot_y="0.479387"/>
+        <file id="5" name="kiki_tail/kiki_tail-5.png" width="84" height="36" pivot_x="0.802673" pivot_y="0.520847"/>
+    </folder>
+    <folder id="4" name="kiki_mouth">
+        <file id="5" name="kiki_mouth/kiki_mouth-5.png" width="60" height="44" pivot_x="0.119575" pivot_y="0.70342"/>
+    </folder>
+    <folder id="5" name="kiki_upperarm">
+        <file id="0" name="kiki_upperarm/kiki_upperarm-0.png" width="48" height="96" pivot_x="0.491135" pivot_y="0.837505"/>
+        <file id="1" name="kiki_upperarm/kiki_upperarm-1.png" width="80" height="216" pivot_x="0.564681" pivot_y="0.824771"/>
+    </folder>
+    <folder id="6" name="kiki_lowerbody">
+        <file id="0" name="kiki_lowerbody/kiki_lowerbody-0.png" width="96" height="116" pivot_x="0.504422" pivot_y="0.198927"/>
+        <file id="1" name="kiki_lowerbody/kiki_lowerbody-1.png" width="132" height="248" pivot_x="0.47386" pivot_y="0.106756"/>
+        <file id="2" name="kiki_lowerbody/kiki_lowerbody-2.png" width="152" height="148" pivot_x="0.533714" pivot_y="0.137503"/>
+        <file id="3" name="kiki_lowerbody/kiki_lowerbody-3.png" width="76" height="132" pivot_x="0.851967" pivot_y="0.418943"/>
+    </folder>
+    <folder id="7" name="kiki_upperleg">
+        <file id="0" name="kiki_upperleg/kiki_upperleg-0.png" width="56" height="72" pivot_x="0.381241" pivot_y="0.28334"/>
+        <file id="1" name="kiki_upperleg/kiki_upperleg-1.png" width="64" height="104" pivot_x="0.40507" pivot_y="0.238707"/>
+        <file id="2" name="kiki_upperleg/kiki_upperleg-2.png" width="80" height="112" pivot_x="0.300619" pivot_y="0.240629"/>
+    </folder>
+    <folder id="8" name="kiki_lowerarm">
+        <file id="0" name="kiki_lowerarm/kiki_lowerarm-0.png" width="48" height="92" pivot_x="0.49999" pivot_y="0.853266"/>
+        <file id="1" name="kiki_lowerarm/kiki_lowerarm-1.png" width="84" height="172" pivot_x="0.641958" pivot_y="0.850584"/>
+        <file id="2" name="kiki_lowerarm/kiki_lowerarm-2.png" width="64" height="124" pivot_x="0.760539" pivot_y="0.805851"/>
+    </folder>
+    <folder id="9" name="kiki_lowerleg">
+        <file id="0" name="kiki_lowerleg/kiki_lowerleg-0.png" width="68" height="96" pivot_x="0.501463" pivot_y="0.808339"/>
+        <file id="1" name="kiki_lowerleg/kiki_lowerleg-1.png" width="64" height="84" pivot_x="0.469523" pivot_y="0.722625"/>
+    </folder>
+    <folder id="10" name="kiki_ear">
+        <file id="0" name="kiki_ear/kiki_ear-0.png" width="96" height="124" pivot_x="0.851818" pivot_y="0.463915"/>
+        <file id="1" name="kiki_ear/kiki_ear-1.png" width="96" height="124" pivot_x="0.851818" pivot_y="0.463915"/>
+    </folder>
+    <folder id="11" name="kiki_upperbody">
+        <file id="0" name="kiki_upperbody/kiki_upperbody-0.png" width="100" height="92" pivot_x="0.499745" pivot_y="0.324462"/>
+        <file id="1" name="kiki_upperbody/kiki_upperbody-1.png" width="180" height="188" pivot_x="0.470692" pivot_y="0.448673"/>
+        <file id="2" name="kiki_upperbody/kiki_upperbody-2.png" width="160" height="132" pivot_x="0.496403" pivot_y="0.27633"/>
+        <file id="3" name="kiki_upperbody/kiki_upperbody-3.png" width="144" height="188" pivot_x="0.865448" pivot_y="0.49854"/>
+    </folder>
+    <folder id="12" name="kiki_foot">
+        <file id="0" name="kiki_foot/kiki_foot-0.png" width="96" height="44" pivot_x="0.26562" pivot_y="0.670466"/>
+        <file id="1" name="kiki_foot/kiki_foot-1.png" width="108" height="64" pivot_x="0.512958" pivot_y="0.796883"/>
+        <file id="2" name="kiki_foot/kiki_foot-2.png" width="128" height="120" pivot_x="0.832027" pivot_y="0.394379"/>
+        <file id="3" name="kiki_foot/kiki_foot-3.png" width="152" height="76" pivot_x="0.839306" pivot_y="0.489151"/>
+        <file id="4" name="kiki_foot/kiki_foot-4.png" width="140" height="88" pivot_x="0.910711" pivot_y="0.316767"/>
+        <file id="5" name="kiki_foot/kiki_foot-5.png" width="128" height="180" pivot_x="0.383004" pivot_y="0.0991695"/>
+        <file id="6" name="kiki_foot/kiki_foot-6.png" width="128" height="160" pivot_x="0.295113" pivot_y="0.193441"/>
+        <file id="7" name="kiki_foot/kiki_foot-7.png" width="140" height="180" pivot_x="0.555354" pivot_y="0.0994472"/>
+    </folder>
+    <folder id="13" name="FX_wipe">
+        <file id="0" name="FX_wipe/FX_wipe-0.png" width="132" height="152" pivot_x="0.530299" pivot_y="0.608063"/>
+        <file id="1" name="FX_wipe/FX_wipe-1.png" width="196" height="128" pivot_x="0.375125" pivot_y="0.733402"/>
+        <file id="2" name="FX_wipe/FX_wipe-2.png" width="232" height="208" pivot_x="0.200537" pivot_y="0.39844"/>
+        <file id="3" name="FX_wipe/FX_wipe-3.png" width="212" height="216" pivot_x="0.108134" pivot_y="0.342826"/>
+        <file id="4" name="FX_wipe/FX_wipe-4.png" width="144" height="168" pivot_x="-0.243229" pivot_y="0.170539"/>
+        <file id="5" name="FX_wipe/FX_wipe-5.png" width="176" height="136" pivot_x="0.0271307" pivot_y="-0.00275"/>
+        <file id="6" name="FX_wipe/FX_wipe-6.png" width="192" height="140" pivot_x="0.155336" pivot_y="0.110361"/>
+        <file id="7" name="FX_wipe/FX_wipe-7.png" width="148" height="160" pivot_x="0.365199" pivot_y="0.379847"/>
+    </folder>
+    <folder id="14" name="swap_frozen">
+        <file id="0" name="swap_frozen/swap_frozen-0.png" width="176" height="136" pivot_x="0.49119" pivot_y="0.498349"/>
+        <file id="1" name="swap_frozen/swap_frozen-1.png" width="108" height="80" pivot_x="0.505319" pivot_y="0.485006"/>
+        <file id="2" name="swap_frozen/swap_frozen-2.png" width="108" height="132" pivot_x="0.504162" pivot_y="0.51686"/>
+        <file id="3" name="swap_frozen/swap_frozen-3.png" width="220" height="160" pivot_x="0.48943" pivot_y="0.506253"/>
+        <file id="4" name="swap_frozen/swap_frozen-4.png" width="396" height="224" pivot_x="0.523042" pivot_y="0.356475"/>
+    </folder>
+    <entity id="0" name="kiki">
+        <animation id="0" name="monkey_drawing_2" length="600">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="kiki_upperleg_1" folder="7" file="0" abs_x="-21.349" abs_y="20.249" abs_pivot_x="0.381241" abs_pivot_y="0.28334" abs_angle="358.102" abs_scale_x="0.711972" abs_scale_y="0.636735" abs_a="1" timeline="23" key="0" z_index="0"/>
+                    <object_ref id="1" name="kiki_tail_5" folder="3" file="0" abs_x="-68.499" abs_y="6.749" abs_pivot_x="0.770827" abs_pivot_y="0.528141" abs_angle="18.7799" abs_scale_x="0.748594" abs_scale_y="0.748594" abs_a="1" timeline="22" key="0" z_index="1"/>
+                    <object_ref id="2" name="kiki_tail_4" folder="3" file="1" abs_x="-104.599" abs_y="-4.2" abs_pivot_x="0.813216" abs_pivot_y="0.415352" abs_angle="334.653" abs_scale_x="0.747076" abs_scale_y="0.747076" abs_a="1" timeline="21" key="0" z_index="2"/>
+                    <object_ref id="3" name="kiki_tail_3" folder="3" file="2" abs_x="-150.949" abs_y="25.749" abs_pivot_x="0.827859" abs_pivot_y="0.532513" abs_angle="285.762" abs_scale_x="0.745802" abs_scale_y="0.745787" abs_a="1" timeline="20" key="0" z_index="3"/>
+                    <object_ref id="4" name="kiki_tail_2" folder="3" file="3" abs_x="-163.949" abs_y="73.499" abs_pivot_x="0.912912" abs_pivot_y="0.571542" abs_angle="219.871" abs_scale_x="0.744854" abs_scale_y="0.744854" abs_a="1" timeline="19" key="0" z_index="4"/>
+                    <object_ref id="5" name="kiki_tail_1" folder="3" file="4" abs_x="-107.899" abs_y="113.749" abs_pivot_x="0.888254" abs_pivot_y="0.479387" abs_angle="103.839" abs_scale_x="0.743728" abs_scale_y="0.743743" abs_a="1" timeline="18" key="0" z_index="5"/>
+                    <object_ref id="6" name="kiki_tail_0" folder="3" file="5" abs_x="-95.649" abs_y="40.149" abs_pivot_x="0.802673" abs_pivot_y="0.520847" abs_angle="315.947" abs_scale_x="0.742522" abs_scale_y="0.742522" abs_a="1" timeline="17" key="0" z_index="6"/>
+                    <object_ref id="7" name="kiki_foot_1" folder="12" file="0" abs_x="-21.699" abs_y="1.749" abs_pivot_x="0.26562" abs_pivot_y="0.670466" abs_angle="0" abs_scale_x="0.627335" abs_scale_y="0.574585" abs_a="1" timeline="16" key="0" z_index="7"/>
+                    <object_ref id="8" name="kiki_lowerleg_1" folder="9" file="0" abs_x="-11.449" abs_y="41.249" abs_pivot_x="0.501463" abs_pivot_y="0.808339" abs_angle="358.102" abs_scale_x="0.711972" abs_scale_y="0.636735" abs_a="1" timeline="15" key="0" z_index="8"/>
+                    <object_ref id="9" name="kiki_lowerbody" folder="6" file="0" abs_x="-48.749" abs_y="9.699" abs_pivot_x="0.504422" abs_pivot_y="0.198927" abs_angle="348.766" abs_scale_x="0.805549" abs_scale_y="0.815092" abs_a="1" timeline="14" key="0" z_index="9"/>
+                    <object_ref id="10" name="kiki_upperleg_0" folder="7" file="0" abs_x="-58.849" abs_y="13.649" abs_pivot_x="0.381241" abs_pivot_y="0.28334" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="13" key="0" z_index="10"/>
+                    <object_ref id="11" name="kiki_foot_0" folder="12" file="0" abs_x="-56.249" abs_y="-8.05" abs_pivot_x="0.26562" abs_pivot_y="0.670466" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="12" key="0" z_index="11"/>
+                    <object_ref id="12" name="kiki_lowerleg_0" folder="9" file="0" abs_x="-49.399" abs_y="38.599" abs_pivot_x="0.501463" abs_pivot_y="0.808339" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="11" key="0" z_index="12"/>
+                    <object_ref id="13" name="kiki_upperbody" folder="11" file="0" abs_x="-25.999" abs_y="66.399" abs_pivot_x="0.499745" abs_pivot_y="0.324462" abs_angle="324.909" abs_scale_x="0.708462" abs_scale_y="0.794528" abs_a="1" timeline="10" key="0" z_index="13"/>
+                    <object_ref id="14" name="kiki_upperarm_1" folder="5" file="0" abs_x="8.15" abs_y="73.849" abs_pivot_x="0.491135" abs_pivot_y="0.837505" abs_angle="10.0126" abs_scale_x="0.749576" abs_scale_y="0.749576" abs_a="1" timeline="9" key="0" z_index="14"/>
+                    <object_ref id="15" name="kiki_upperarm_0" folder="5" file="0" abs_x="99.15" abs_y="83.149" abs_pivot_x="0.491135" abs_pivot_y="0.837505" abs_angle="352.649" abs_scale_x="-0.749676" abs_scale_y="0.749676" abs_a="1" timeline="8" key="0" z_index="15"/>
+                    <object_ref id="16" name="kiki_hand_1" folder="1" file="1" abs_x="91" abs_y="1.899" abs_pivot_x="0.298257" abs_pivot_y="0.742508" abs_angle="0" abs_scale_x="-0.75" abs_scale_y="0.75" abs_a="1" timeline="7" key="0" z_index="16"/>
+                    <object_ref id="17" name="kiki_lowerarm_1" folder="8" file="0" abs_x="92.7" abs_y="42.249" abs_pivot_x="0.49999" abs_pivot_y="0.853266" abs_angle="352.649" abs_scale_x="-0.749676" abs_scale_y="0.749676" abs_a="1" timeline="6" key="0" z_index="17"/>
+                    <object_ref id="18" name="kiki_hand_0" folder="1" file="0" abs_x="18.85" abs_y="-6.35" abs_pivot_x="0.256869" abs_pivot_y="0.601961" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="5" key="0" z_index="18"/>
+                    <object_ref id="19" name="kiki_lowerarm_0" folder="8" file="0" abs_x="16.4" abs_y="33.299" abs_pivot_x="0.49999" abs_pivot_y="0.853266" abs_angle="10.0126" abs_scale_x="0.749576" abs_scale_y="0.749576" abs_a="1" timeline="4" key="0" z_index="19"/>
+                    <object_ref id="20" name="kiki_ear_1" folder="10" file="0" abs_x="-3.599" abs_y="117.899" abs_pivot_x="0.851818" abs_pivot_y="0.463915" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="3" key="0" z_index="20"/>
+                    <object_ref id="21" name="kiki_ear_0" folder="10" file="0" abs_x="94.6" abs_y="127.099" abs_pivot_x="0.851818" abs_pivot_y="0.463915" abs_angle="3.33786" abs_scale_x="-0.590839" abs_scale_y="0.750007" abs_a="1" timeline="2" key="0" z_index="21"/>
+                    <object_ref id="22" name="kiki_head" folder="2" file="0" abs_x="53.85" abs_y="123.399" abs_pivot_x="0.505432" abs_pivot_y="0.572118" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="1" key="0" z_index="22"/>
+                    <object_ref id="23" name="kiki_hair" folder="0" file="0" abs_x="45.25" abs_y="167.249" abs_pivot_x="0.424549" abs_pivot_y="0.081031" abs_angle="0" abs_scale_x="0.75" abs_scale_y="0.75" abs_a="1" timeline="0" key="0" z_index="23"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="kiki_hair">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="45.25" y="167.249" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="kiki_head">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="53.85" y="123.399" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="kiki_ear_0">
+                <key id="0" spin="0">
+                    <object folder="10" file="0" x="94.6" y="127.099" angle="3.33786" scale_x="-0.590839" scale_y="0.750007"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="kiki_ear_1">
+                <key id="0" spin="0">
+                    <object folder="10" file="0" x="-3.599" y="117.899" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="kiki_lowerarm_0">
+                <key id="0" spin="0">
+                    <object folder="8" file="0" x="16.4" y="33.299" angle="10.0126" scale_x="0.749576" scale_y="0.749576"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="kiki_hand_0">
+                <key id="0" spin="0">
+                    <object folder="1" file="0" x="18.85" y="-6.35" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="kiki_lowerarm_1">
+                <key id="0" spin="0">
+                    <object folder="8" file="0" x="92.7" y="42.249" angle="352.649" scale_x="-0.749676" scale_y="0.749676"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="kiki_hand_1">
+                <key id="0" spin="0">
+                    <object folder="1" file="1" x="91" y="1.899" angle="0" scale_x="-0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="8" name="kiki_upperarm_0">
+                <key id="0" spin="0">
+                    <object folder="5" file="0" x="99.15" y="83.149" angle="352.649" scale_x="-0.749676" scale_y="0.749676"/>
+                </key>
+            </timeline>
+            <timeline id="9" name="kiki_upperarm_1">
+                <key id="0" spin="0">
+                    <object folder="5" file="0" x="8.15" y="73.849" angle="10.0126" scale_x="0.749576" scale_y="0.749576"/>
+                </key>
+            </timeline>
+            <timeline id="10" name="kiki_upperbody">
+                <key id="0" spin="0">
+                    <object folder="11" file="0" x="-25.999" y="66.399" angle="324.909" scale_x="0.708462" scale_y="0.794528"/>
+                </key>
+            </timeline>
+            <timeline id="11" name="kiki_lowerleg_0">
+                <key id="0" spin="0">
+                    <object folder="9" file="0" x="-49.399" y="38.599" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="12" name="kiki_foot_0">
+                <key id="0" spin="0">
+                    <object folder="12" file="0" x="-56.249" y="-8.05" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="13" name="kiki_upperleg_0">
+                <key id="0" spin="0">
+                    <object folder="7" file="0" x="-58.849" y="13.649" angle="0" scale_x="0.75" scale_y="0.75"/>
+                </key>
+            </timeline>
+            <timeline id="14" name="kiki_lowerbody">
+                <key id="0" spin="0">
+                    <object folder="6" file="0" x="-48.749" y="9.699" angle="348.766" scale_x="0.805549" scale_y="0.815092"/>
+                </key>
+            </timeline>
+            <timeline id="15" name="kiki_lowerleg_1">
+                <key id="0" spin="0">
+                    <object folder="9" file="0" x="-11.449" y="41.249" angle="358.102" scale_x="0.711972" scale_y="0.636735"/>
+                </key>
+            </timeline>
+            <timeline id="16" name="kiki_foot_1">
+                <key id="0" spin="0">
+                    <object folder="12" file="0" x="-21.699" y="1.749" angle="0" scale_x="0.627335" scale_y="0.574585"/>
+                </key>
+            </timeline>
+            <timeline id="17" name="kiki_tail_0">
+                <key id="0" spin="0">
+                    <object folder="3" file="5" x="-95.649" y="40.149" angle="315.947" scale_x="0.742522" scale_y="0.742522"/>
+                </key>
+            </timeline>
+            <timeline id="18" name="kiki_tail_1">
+                <key id="0" spin="0">
+                    <object folder="3" file="4" x="-107.899" y="113.749" angle="103.839" scale_x="0.743728" scale_y="0.743743"/>
+                </key>
+            </timeline>
+            <timeline id="19" name="kiki_tail_2">
+                <key id="0" spin="0">
+                    <object folder="3" file="3" x="-163.949" y="73.499" angle="219.871" scale_x="0.744854" scale_y="0.744854"/>
+                </key>
+            </timeline>
+            <timeline id="20" name="kiki_tail_3">
+                <key id="0" spin="0">
+                    <object folder="3" file="2" x="-150.949" y="25.749" angle="285.762" scale_x="0.745802" scale_y="0.745787"/>
+                </key>
+            </timeline>
+            <timeline id="21" name="kiki_tail_4">
+                <key id="0" spin="0">
+                    <object folder="3" file="1" x="-104.599" y="-4.2" angle="334.653" scale_x="0.747076" scale_y="0.747076"/>
+                </key>
+            </timeline>
+            <timeline id="22" name="kiki_tail_5">
+                <key id="0" spin="0">
+                    <object folder="3" file="0" x="-68.499" y="6.749" angle="18.7799" scale_x="0.748594" scale_y="0.748594"/>
+                </key>
+            </timeline>
+            <timeline id="23" name="kiki_upperleg_1">
+                <key id="0" spin="0">
+                    <object folder="7" file="0" x="-21.349" y="20.249" angle="358.102" scale_x="0.711972" scale_y="0.636735"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
